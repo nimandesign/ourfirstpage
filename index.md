@@ -7,7 +7,11 @@ published: true
 
 * One two three
 
-This is just plain paragraph text.
 
 # We Rock
 [Private Practice Now] (www.privatepracticenow.com)
+
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
